@@ -2,7 +2,7 @@ algoritmos-avancados
 ====================
 
 Material de Algoritmos Avançados 
-Relevante para a cadeira inf5016/cmp588 [Algoritmos Avançados](http://inf.ufrgs.br/~MRPRITT/doku.php?id=inf05016:homepage)
+Relevante para a cadeira inf5016/cmp588 ([Algoritmos Avançados](http://inf.ufrgs.br/~MRPRITT/doku.php?id=inf05016:homepage))
 
 /*link para o programas*/
 
